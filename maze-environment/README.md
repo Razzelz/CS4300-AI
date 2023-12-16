@@ -1,4 +1,4 @@
-Uniform Coins
+Maze
 -------------
 
 This is a simple environment to demonstrate creation of a
