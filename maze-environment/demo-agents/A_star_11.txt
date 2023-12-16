@@ -1,0 +1,28 @@
+A_star iterations: 50 size: 11
+	gridSize: 11x11
+	iterations: 50
+	average nodes generated: 88.32
+	Median nodes generated: 91
+	Lowest nodes generated: 39
+	Largest nodes generated: 139
+
+	AverageTime: 0.021864
+	Median times: 0.021303
+	Lowest time: 0.005126
+	Largest time: 0.050101
+
+
+A_star iterations: 50 size: 11
+	gridSize: 11x11
+	iterations: 50
+	average nodes generated: 93.14
+	Median nodes generated: 95
+	Lowest nodes generated: 43
+	Largest nodes generated: 139
+
+	AverageTime: 0.023633
+	Median times: 0.022887
+	Lowest time: 0.006155
+	Largest time: 0.046935
+
+

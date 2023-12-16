@@ -1,0 +1,42 @@
+bfs iterations: 50 size: 5
+	gridSize: 5x5
+	iterations: 50
+	average nodes generated: 6860.16
+	Median nodes generated: 281
+	Lowest nodes generated: 244
+	Largest nodes generated: 48815
+
+	AverageTime: 0.157206
+	Median times: 0.006670
+	Lowest time: 0.005235
+	Largest time: 1.115767
+
+
+bfs iterations: 50 size: 5
+	gridSize: 5x5
+	iterations: 50
+	average nodes generated: 4116.76
+	Median nodes generated: 281
+	Lowest nodes generated: 244
+	Largest nodes generated: 48815
+
+	AverageTime: 0.094047
+	Median times: 0.006664
+	Lowest time: 0.005210
+	Largest time: 1.086230
+
+
+bfs iterations: 50 size: 5
+	gridSize: 5x5
+	iterations: 50
+	average nodes generated: 11559.32
+	Median nodes generated: 2981
+	Lowest nodes generated: 244
+	Largest nodes generated: 48815
+
+	AverageTime: 0.268707
+	Median times: 0.073144
+	Lowest time: 0.005101
+	Largest time: 1.131718
+
+
