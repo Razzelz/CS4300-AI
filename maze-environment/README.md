@@ -15,11 +15,10 @@ tree search.
 
 To be sure that all pip prerequisites are installed first,
 use the `Makefile` in [prerequisites](prerequisites/).
-
-The gymnasium environment is contained completely in [uniform-coins](uniform-coins/). 
-Use the `Makefile` in that directory to install the module in your local
-pip. Note that this does not copy the module, it sets a link to this
-location. This is convenient for making updates after installing it.
+ 
+Use the `Makefile` to install the module in your localpip. Note that 
+this does not copy the module, it sets a link to this location. 
+This is convenient for making updates after installing it.
 
 [demo-agents](demo-agents/) has a random agent and a iterative deepening
 search agent, to demonstrate the use of the environment and the model
